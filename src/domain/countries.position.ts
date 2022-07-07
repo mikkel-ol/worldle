@@ -1144,7 +1144,7 @@ export const countries = [
     latitude: -12.8275,
     longitude: 45.166244,
     name: "Mayotte",
-  }
+  },
 ] as const;
 
 export type CountryCode = typeof countries[number]["code"];
