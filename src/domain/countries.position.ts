@@ -48,12 +48,6 @@ export const countries = [
     name: "Netherlands Antilles",
   },
   {
-    code: "AO",
-    latitude: -11.202692,
-    longitude: 17.873887,
-    name: "Angola",
-  },
-  {
     code: "AQ",
     latitude: -75.250973,
     longitude: -0.071389,
@@ -120,12 +114,6 @@ export const countries = [
     name: "Belgium",
   },
   {
-    code: "BF",
-    latitude: 12.238333,
-    longitude: -1.561593,
-    name: "Burkina Faso",
-  },
-  {
     code: "BG",
     latitude: 42.733883,
     longitude: 25.48583,
@@ -136,18 +124,6 @@ export const countries = [
     latitude: 25.930414,
     longitude: 50.637772,
     name: "Bahrain",
-  },
-  {
-    code: "BI",
-    latitude: -3.373056,
-    longitude: 29.918886,
-    name: "Burundi",
-  },
-  {
-    code: "BJ",
-    latitude: 9.30769,
-    longitude: 2.315834,
-    name: "Benin",
   },
   {
     code: "BM",
@@ -192,12 +168,6 @@ export const countries = [
     name: "Bouvet Island",
   },
   {
-    code: "BW",
-    latitude: -22.328474,
-    longitude: 24.684866,
-    name: "Botswana",
-  },
-  {
     code: "BY",
     latitude: 53.709807,
     longitude: 27.953389,
@@ -222,34 +192,10 @@ export const countries = [
     name: "Cocos Islands",
   },
   {
-    code: "CD",
-    latitude: -4.038333,
-    longitude: 21.758664,
-    name: "Democratic Republic of the Congo",
-  },
-  {
-    code: "CF",
-    latitude: 6.611111,
-    longitude: 20.939444,
-    name: "Central African Republic",
-  },
-  {
-    code: "CG",
-    latitude: -0.228021,
-    longitude: 15.827659,
-    name: "Congo",
-  },
-  {
     code: "CH",
     latitude: 46.818188,
     longitude: 8.227512,
     name: "Switzerland",
-  },
-  {
-    code: "CI",
-    latitude: 7.539989,
-    longitude: -5.54708,
-    name: "Côte d'Ivoire",
   },
   {
     code: "CK",
@@ -262,12 +208,6 @@ export const countries = [
     latitude: -35.675147,
     longitude: -71.542969,
     name: "Chile",
-  },
-  {
-    code: "CM",
-    latitude: 7.369722,
-    longitude: 12.354722,
-    name: "Cameroon",
   },
   {
     code: "CN",
@@ -294,12 +234,6 @@ export const countries = [
     name: "Cuba",
   },
   {
-    code: "CV",
-    latitude: 16.002082,
-    longitude: -24.013197,
-    name: "Cape Verde",
-  },
-  {
     code: "CX",
     latitude: -10.447525,
     longitude: 105.690449,
@@ -324,12 +258,6 @@ export const countries = [
     name: "Germany",
   },
   {
-    code: "DJ",
-    latitude: 11.825138,
-    longitude: 42.590275,
-    name: "Djibouti",
-  },
-  {
     code: "DK",
     latitude: 56.26392,
     longitude: 9.501785,
@@ -348,12 +276,6 @@ export const countries = [
     name: "Dominican Republic",
   },
   {
-    code: "DZ",
-    latitude: 28.033886,
-    longitude: 1.659626,
-    name: "Algeria",
-  },
-  {
     code: "EC",
     latitude: -1.831239,
     longitude: -78.183406,
@@ -366,34 +288,16 @@ export const countries = [
     name: "Estonia",
   },
   {
-    code: "EG",
-    latitude: 26.820553,
-    longitude: 30.802498,
-    name: "Egypt",
-  },
-  {
     code: "EH",
     latitude: 24.215527,
     longitude: -12.885834,
     name: "Western Sahara",
   },
   {
-    code: "ER",
-    latitude: 15.179384,
-    longitude: 39.782334,
-    name: "Eritrea",
-  },
-  {
     code: "ES",
     latitude: 40.463667,
     longitude: -3.74922,
     name: "Spain",
-  },
-  {
-    code: "ET",
-    latitude: 9.145,
-    longitude: 40.489673,
-    name: "Ethiopia",
   },
   {
     code: "FI",
@@ -432,12 +336,6 @@ export const countries = [
     name: "France",
   },
   {
-    code: "GA",
-    latitude: -0.803689,
-    longitude: 11.609444,
-    name: "Gabon",
-  },
-  {
     code: "GB",
     latitude: 55.378051,
     longitude: -3.435973,
@@ -468,12 +366,6 @@ export const countries = [
     name: "Guernsey",
   },
   {
-    code: "GH",
-    latitude: 7.946527,
-    longitude: -1.023194,
-    name: "Ghana",
-  },
-  {
     code: "GI",
     latitude: 36.137741,
     longitude: -5.345374,
@@ -486,28 +378,10 @@ export const countries = [
     name: "Greenland",
   },
   {
-    code: "GM",
-    latitude: 13.443182,
-    longitude: -15.310139,
-    name: "Gambia",
-  },
-  {
-    code: "GN",
-    latitude: 9.945587,
-    longitude: -9.696645,
-    name: "Guinea",
-  },
-  {
     code: "GP",
     latitude: 16.08663,
     longitude: -61.422873,
     name: "Guadeloupe",
-  },
-  {
-    code: "GQ",
-    latitude: 1.650801,
-    longitude: 10.267895,
-    name: "Equatorial Guinea",
   },
   {
     code: "GR",
@@ -532,12 +406,6 @@ export const countries = [
     latitude: 13.444304,
     longitude: 144.793731,
     name: "Guam",
-  },
-  {
-    code: "GW",
-    latitude: 11.803749,
-    longitude: -15.180413,
-    name: "Guinea-Bissau",
   },
   {
     code: "GY",
@@ -672,12 +540,6 @@ export const countries = [
     name: "Japan",
   },
   {
-    code: "KE",
-    latitude: -0.023559,
-    longitude: 37.906193,
-    name: "Kenya",
-  },
-  {
     code: "KG",
     latitude: 41.20438,
     longitude: 74.766098,
@@ -694,12 +556,6 @@ export const countries = [
     latitude: -3.370417,
     longitude: -168.734039,
     name: "Kiribati",
-  },
-  {
-    code: "KM",
-    latitude: -11.875001,
-    longitude: 43.872219,
-    name: "Comoros",
   },
   {
     code: "KN",
@@ -768,18 +624,6 @@ export const countries = [
     name: "Sri Lanka",
   },
   {
-    code: "LR",
-    latitude: 6.428055,
-    longitude: -9.429499,
-    name: "Liberia",
-  },
-  {
-    code: "LS",
-    latitude: -29.609988,
-    longitude: 28.233608,
-    name: "Lesotho",
-  },
-  {
     code: "LT",
     latitude: 55.169438,
     longitude: 23.881275,
@@ -796,18 +640,6 @@ export const countries = [
     latitude: 56.879635,
     longitude: 24.603189,
     name: "Latvia",
-  },
-  {
-    code: "LY",
-    latitude: 26.3351,
-    longitude: 17.228331,
-    name: "Libya",
-  },
-  {
-    code: "MA",
-    latitude: 31.791702,
-    longitude: -7.09262,
-    name: "Morocco",
   },
   {
     code: "MC",
@@ -828,12 +660,6 @@ export const countries = [
     name: "Montenegro",
   },
   {
-    code: "MG",
-    latitude: -18.766947,
-    longitude: 46.869107,
-    name: "Madagascar",
-  },
-  {
     code: "MH",
     latitude: 7.131474,
     longitude: 171.184478,
@@ -844,12 +670,6 @@ export const countries = [
     latitude: 41.608635,
     longitude: 21.745275,
     name: "North Macedonia",
-  },
-  {
-    code: "ML",
-    latitude: 17.570692,
-    longitude: -3.996166,
-    name: "Mali",
   },
   {
     code: "MM",
@@ -882,12 +702,6 @@ export const countries = [
     name: "Martinique",
   },
   {
-    code: "MR",
-    latitude: 21.00789,
-    longitude: -10.940835,
-    name: "Mauritania",
-  },
-  {
     code: "MS",
     latitude: 16.742498,
     longitude: -62.187366,
@@ -900,22 +714,10 @@ export const countries = [
     name: "Malta",
   },
   {
-    code: "MU",
-    latitude: -20.348404,
-    longitude: 57.552152,
-    name: "Mauritius",
-  },
-  {
     code: "MV",
     latitude: 3.202778,
     longitude: 73.22068,
     name: "Maldives",
-  },
-  {
-    code: "MW",
-    latitude: -13.254308,
-    longitude: 34.301525,
-    name: "Malawi",
   },
   {
     code: "MX",
@@ -930,40 +732,16 @@ export const countries = [
     name: "Malaysia",
   },
   {
-    code: "MZ",
-    latitude: -18.665695,
-    longitude: 35.529562,
-    name: "Mozambique",
-  },
-  {
-    code: "NA",
-    latitude: -22.95764,
-    longitude: 18.49041,
-    name: "Namibia",
-  },
-  {
     code: "NC",
     latitude: -20.904305,
     longitude: 165.618042,
     name: "New Caledonia",
   },
   {
-    code: "NE",
-    latitude: 17.607789,
-    longitude: 8.081666,
-    name: "Niger",
-  },
-  {
     code: "NF",
     latitude: -29.040835,
     longitude: 167.954712,
     name: "Norfolk Island",
-  },
-  {
-    code: "NG",
-    latitude: 9.081999,
-    longitude: 8.675277,
-    name: "Nigeria",
   },
   {
     code: "NI",
@@ -1128,12 +906,6 @@ export const countries = [
     name: "Russia",
   },
   {
-    code: "RW",
-    latitude: -1.940278,
-    longitude: 29.873888,
-    name: "Rwanda",
-  },
-  {
     code: "SA",
     latitude: 23.885942,
     longitude: 45.079162,
@@ -1144,24 +916,6 @@ export const countries = [
     latitude: -9.64571,
     longitude: 160.156194,
     name: "Solomon Islands",
-  },
-  {
-    code: "SC",
-    latitude: -4.679574,
-    longitude: 55.491977,
-    name: "Seychelles",
-  },
-  {
-    code: "SD",
-    latitude: 15.8905231,
-    longitude: 30.7671933,
-    name: "Sudan",
-  },
-  {
-    code: "SS",
-    latitude: 6.85065,
-    longitude: 30.659016,
-    name: "South Sudan",
   },
   {
     code: "SE",
@@ -1200,40 +954,16 @@ export const countries = [
     name: "Slovakia",
   },
   {
-    code: "SL",
-    latitude: 8.460555,
-    longitude: -11.779889,
-    name: "Sierra Leone",
-  },
-  {
     code: "SM",
     latitude: 43.94236,
     longitude: 12.457777,
     name: "San Marino",
   },
   {
-    code: "SN",
-    latitude: 14.497401,
-    longitude: -14.452362,
-    name: "Senegal",
-  },
-  {
-    code: "SO",
-    latitude: 5.152149,
-    longitude: 46.199616,
-    name: "Somalia",
-  },
-  {
     code: "SR",
     latitude: 3.919305,
     longitude: -56.027783,
     name: "Suriname",
-  },
-  {
-    code: "ST",
-    latitude: 0.18636,
-    longitude: 6.613081,
-    name: "São Tomé and Príncipe",
   },
   {
     code: "SV",
@@ -1248,34 +978,16 @@ export const countries = [
     name: "Syria",
   },
   {
-    code: "SZ",
-    latitude: -26.522503,
-    longitude: 31.465866,
-    name: "Eswatini",
-  },
-  {
     code: "TC",
     latitude: 21.694025,
     longitude: -71.797928,
     name: "Turks and Caicos Islands",
   },
   {
-    code: "TD",
-    latitude: 15.454166,
-    longitude: 18.732207,
-    name: "Chad",
-  },
-  {
     code: "TF",
     latitude: -49.280366,
     longitude: 69.348557,
     name: "French Southern Territories - Kerguelen Islands",
-  },
-  {
-    code: "TG",
-    latitude: 8.619543,
-    longitude: 0.824782,
-    name: "Togo",
   },
   {
     code: "TH",
@@ -1308,12 +1020,6 @@ export const countries = [
     name: "Turkmenistan",
   },
   {
-    code: "TN",
-    latitude: 33.886917,
-    longitude: 9.537499,
-    name: "Tunisia",
-  },
-  {
     code: "TO",
     latitude: -21.178986,
     longitude: -175.198242,
@@ -1344,22 +1050,10 @@ export const countries = [
     name: "Taiwan",
   },
   {
-    code: "TZ",
-    latitude: -6.369028,
-    longitude: 34.888822,
-    name: "Tanzania",
-  },
-  {
     code: "UA",
     latitude: 48.379433,
     longitude: 31.16558,
     name: "Ukraine",
-  },
-  {
-    code: "UG",
-    latitude: 1.373333,
-    longitude: 32.290275,
-    name: "Uganda",
   },
   {
     code: "US",
@@ -1450,25 +1144,7 @@ export const countries = [
     latitude: -12.8275,
     longitude: 45.166244,
     name: "Mayotte",
-  },
-  {
-    code: "ZA",
-    latitude: -30.559482,
-    longitude: 22.937506,
-    name: "South Africa",
-  },
-  {
-    code: "ZM",
-    latitude: -13.133897,
-    longitude: 27.849332,
-    name: "Zambia",
-  },
-  {
-    code: "ZW",
-    latitude: -19.015438,
-    longitude: 29.154857,
-    name: "Zimbabwe",
-  },
+  }
 ] as const;
 
 export type CountryCode = typeof countries[number]["code"];
